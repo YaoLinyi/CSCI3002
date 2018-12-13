@@ -38,4 +38,4 @@ preferences of it’s neighbors. This will allow for a better tuned and more fle
 <a href="https://www.figma.com/file/VZyBhxEIzjmjOzEdFEL1XlLN/final-version?node-id=2%3A3">Final prototype</a>
 
 ### Video
-<a href="#">video</a>
+<a href="https://drive.google.com/open?id=1fUEpzl1HYceWLA-VQpXbgn7iKxW4lOWn">video</a>
