@@ -13,7 +13,7 @@
   - [Group 2 - Project Plan](ProjectProposalRevised.pdf)
   - [Group 3 - Design Research](group3.pdf)
   - [Group 4 - Paper Prototype](group4.pdf)
-  - [Group 5 - Usability Testing & Heuristic Evaluation](group5 .pdf)
+  - [Group 5 - Usability Testing & Heuristic Evaluation](group5.pdf)
   - [Group 6 - Final Prototype & Storyboard ](group6.pdf)
 ### About our project
 Apartment living is a common reality for students. Whether in the dorms, or off-campus,
