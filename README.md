@@ -7,7 +7,7 @@
 	Joe Rickard
 	Email: jori5664@colorado.edu
 	Nhan Nguyen
-	Email: Nhan.N.Nguyen@colorado.edu 
+	Email: nhng8379@colorado.edu 
 ### previous assignments
   - [Group 2 - Project Plan](group2.pdf)
   - [Group 2 - Project Plan](ProjectProposalRevised.pdf)
@@ -38,4 +38,4 @@ preferences of it’s neighbors. This will allow for a better tuned and more fle
 <a href="https://www.figma.com/file/VZyBhxEIzjmjOzEdFEL1XlLN/final-version?node-id=2%3A3">Final prototype</a>
 
 ### Video
-<a href="https://drive.google.com/open?id=1dHwS3Cgxh-boMRKCCPn24D9JZtqvBJxA">video</a>
+<a href="#">video</a>
