@@ -31,8 +31,11 @@ look for patterns, or when you might need to go apologize to the neighbors. An e
 product could be installation throughout a building, allowing each unit to know the noise
 preferences of it’s neighbors. This will allow for a better tuned and more flexible system.
 ### Prototype
-[Prototype A] (https://www.figma.com/file/gfn8EIG6onMFd0rrUs4yU4Es/prototype-A?node-id=0%3A1)
-[Prototype B] (https://www.figma.com/proto/PhkxMiMQMM5cOLErxQZzzKkl/prototype-B?node-id=4%3A296&scaling=min-zoom&redirected=1)
-[Final prototype] (https://www.figma.com/file/VZyBhxEIzjmjOzEdFEL1XlLN/final-version?node-id=2%3A3)
+<a href="https://www.figma.com/file/gfn8EIG6onMFd0rrUs4yU4Es/prototype-A?node-id=0%3A1">Prototype A/a>
+
+<a href="https://www.figma.com/proto/PhkxMiMQMM5cOLErxQZzzKkl/prototype-B?node-id=4%3A296&scaling=min-zoom&redirected=1">Prototype B</a>
+
+<a href="https://www.figma.com/file/VZyBhxEIzjmjOzEdFEL1XlLN/final-version?node-id=2%3A3">Final prototype</a>
+
 ### Video
-[video] (https://drive.google.com/open?id=1dHwS3Cgxh-boMRKCCPn24D9JZtqvBJxA)
+<a href="https://drive.google.com/open?id=1dHwS3Cgxh-boMRKCCPn24D9JZtqvBJxA">video</a>
