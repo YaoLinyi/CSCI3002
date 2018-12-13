@@ -31,7 +31,7 @@ look for patterns, or when you might need to go apologize to the neighbors. An e
 product could be installation throughout a building, allowing each unit to know the noise
 preferences of it’s neighbors. This will allow for a better tuned and more flexible system.
 ### Prototype
-<a href="https://www.figma.com/file/gfn8EIG6onMFd0rrUs4yU4Es/prototype-A?node-id=0%3A1">Prototype A/a>
+<a href="https://www.figma.com/file/gfn8EIG6onMFd0rrUs4yU4Es/prototype-A?node-id=0%3A1">Prototype A</a>
 
 <a href="https://www.figma.com/proto/PhkxMiMQMM5cOLErxQZzzKkl/prototype-B?node-id=4%3A296&scaling=min-zoom&redirected=1">Prototype B</a>
 
